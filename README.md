@@ -1,6 +1,7 @@
 # n:m-full-stack-java-Spring-project
 
 Full-stack many-to-many project using Java8, JSP, Tomcat, MySQL, OOP, Bcrypt, Bootstrap, JPA, JUnit, JVM
+Finished in under 5 hours
 
 # Usage
 - Use STS4 to open the project 
