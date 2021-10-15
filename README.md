@@ -2,7 +2,7 @@
 
 Full-stack many-to-many project using Java8, JSP, Tomcat, MySQL, OOP, Bcrypt, Bootstrap, JPA, JUnit, JVM
 
-#Usage
+# Usage
 - Use STS4 to open the project 
 - Create an empty MySQL schema called "yogaSchema", and change the spring.datasource.passwor password to yours.
 - Run as Spring Boot App
