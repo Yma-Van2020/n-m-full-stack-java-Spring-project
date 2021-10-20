@@ -4,6 +4,7 @@
 - Finished in under 5 hours
 
 # Usage
+- Created to keep track of class schedules
 - Use STS4 to open the project 
 - Create an empty MySQL schema called "yogaSchema", and change the spring.datasource.password to your password.
 - Run as Spring Boot App
